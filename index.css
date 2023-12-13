@@ -17,7 +17,9 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: poppins;
+    /* Someone, get a new bg color here */
     background: #3add8c;
+    /* background: hsl(84, 72%, 60%); */
 }
  
 ::selection{
