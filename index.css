@@ -660,7 +660,7 @@ footer {
 .menu-icon,
 .menu-btn {
   display: none;
-  margin-right: 42px;
+  margin-right: 45px;
 }
 @media (max-width: 1280px) {
   #search-banner {
